@@ -2,6 +2,7 @@
   <dictionary name="bratca">
     <words>
       <w>axios</w>
+      <w>simplejwt</w>
     </words>
   </dictionary>
 </component>
